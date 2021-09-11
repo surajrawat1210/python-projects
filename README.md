@@ -35,6 +35,14 @@ you don’t have this option, it might be because:
 >- At the bottom, choose Select app and choose the app you using and then Select device and choose the device you’re using and then Generate.
 >- Follow the instructions to enter the App Password. The App Password is the 16-character code in the yellow bar on your device.
 >- Tap Done.
+![alt text](https://github.com/surajrawat1210/python-projects/blob/main/brave_eUTWyuE2OV.png?raw=true)
+
+![alt text](https://github.com/surajrawat1210/python-projects/blob/main/brave_HX1VakfblZ.png?raw=true)
+
+![alt text](https://github.com/surajrawat1210/python-projects/blob/main/brave_A9t7lvyL2v.png?raw=true)
+![alt text](https://github.com/surajrawat1210/python-projects/blob/main/brave_XNpcAACQLI.png?raw=true)
+
+![alt text](https://github.com/surajrawat1210/python-projects/blob/main/AQLumZc.png?raw=true)
 
 ```sh 
 # create smtp session 
